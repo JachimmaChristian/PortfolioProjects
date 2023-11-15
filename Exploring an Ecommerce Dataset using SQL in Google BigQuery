@@ -1,4 +1,4 @@
-/* Find duplicate records across all columns field*/
+#Find duplicate records across all columns field
 #standardSQL
 SELECT COUNT(*) as num_duplicate_rows, * FROM
 `data-to-insights.ecommerce.all_sessions_raw`
