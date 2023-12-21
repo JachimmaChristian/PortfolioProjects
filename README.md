@@ -16,3 +16,5 @@ Data cleaning is foundational for any meaningful analysis. For this project, I c
 **SQL skills demonstrated:** Data Type Conversion, Adding and populating new columns, Handling Null Values, String Manipulation, Parsing and Splitting, Data transformation with CASE Statements, Removing Duplicates, Column Deletion
 
 View my codes [here](https://github.com/JachimmaChristian/SQL-Projects-Repo/blob/main/NashvilleHousingData.sql)
+
+# Data Exploration in Google Bigquery
