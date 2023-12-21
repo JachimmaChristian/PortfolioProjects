@@ -22,4 +22,4 @@ For this project I explored Ecommerce data to understand user behaviour, product
 
 **Skills Demonstrated:** Duplicate Records Identification, Aggregate Functions and counting, Grouping and Sorting, String Manipulation and substring Functions, Limiting Results and filtering, Case Statements and Conditional Logic, Joins and subqueries, Data Aggregation and calculation,  Advanced Query Logic.
 
-View my codes [here]()
+View my codes [here](https://github.com/JachimmaChristian/SQL-Projects-Repo/blob/main/Exploring%20an%20Ecommerce%20Dataset%20using%20SQL%20in%20Google%20BigQuery)
