@@ -18,5 +18,8 @@ Data cleaning is foundational for any meaningful analysis. For this project, I c
 View my codes [here](https://github.com/JachimmaChristian/SQL-Projects-Repo/blob/main/NashvilleHousingData.sql)
 
 # Data Exploration in Google Bigquery
+For this project I explored Ecommerce data to understand user behaviour, product engagement, and the effectiveness of the platform's checkout process, aiming to derive insights that could potentially inform business strategies and optimizations within the Ecommerce domain using Bigquery's standard SQL.
 
-**Skills Demonstrated:** Duplicate Records Identification, Aggregate Functions & Counting, Grouping and Sorting, String Manipulation & Sbstring Functions, Limiting Results & Filtering, Case Statements and Conditional Logic, Joins & Subqueries, Data Aggregation & Calculation ,  Advanced Query Logic.
+**Skills Demonstrated:** Duplicate Records Identification, Aggregate Functions and counting, Grouping and Sorting, String Manipulation and substring Functions, Limiting Results and filtering, Case Statements and Conditional Logic, Joins and subqueries, Data Aggregation and calculation,  Advanced Query Logic.
+
+View my codes [here]()
