@@ -8,7 +8,9 @@ For this project, I analyzed and explored the global COVID-19 pandemic data in S
 
 The data was sourced from [Our world in data](https://ourworldindata.org/covid-deaths). View my codes [Here](https://github.com/JachimmaChristian/SQL-Projects-Repo/blob/main/Covid%2019%20Portfolio%20Project1%20-%20Christian%20Jachimma%20C..SQL)
 
-**SQL Skills used:** Joins, CTEs, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+**SQL Skills demonstrated:** Joins, CTEs, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
 # Cleaning Nashville Housing Data In Microsoft SQL Server Management Studio (SSMS)
-Data cleaning is foundational for any meaningful analysis. For this project I cleaned up the robust Nashville Dataset and prepared it for further exploration.
+Data cleaning is foundational for any meaningful analysis. For this project, I cleaned up the robust Nashville Dataset and prepared it for further exploration and analysis.
+
+**SQL skills demonstrated:** Data Type Conversion, Adding and populating new columns, Handling Null Values, String Manipulation, Parsing and Splitting, Data transformation with CASE Statements, Removing Duplicates, Column Deletion
