@@ -18,3 +18,5 @@ Data cleaning is foundational for any meaningful analysis. For this project, I c
 View my codes [here](https://github.com/JachimmaChristian/SQL-Projects-Repo/blob/main/NashvilleHousingData.sql)
 
 # Data Exploration in Google Bigquery
+
+**Skills Demonstrated:** Duplicate Records Identification, Aggregate Functions & Counting, Grouping and Sorting, String Manipulation & Sbstring Functions, Limiting Results & Filtering, Case Statements and Conditional Logic, Joins & Subqueries, Data Aggregation & Calculation ,  Advanced Query Logic.
