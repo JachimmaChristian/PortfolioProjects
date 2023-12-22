@@ -3,6 +3,9 @@ This repo contains some data exploration I did with SQL as well as the datasets 
 This repo contains:
 
 # Data exploration with Microsoft SQL Server Management Studio(SSMS)
+
+![](Covid19.jpg)
+
 The start of COVID-19 in 2019 caused big changes in health, society, the economy, and nature. These changes keep affecting us every day and might last a long time.
 For this project, I analyzed and explored the global COVID-19 pandemic data in SSMS. 
 
@@ -11,6 +14,9 @@ The data was sourced from [Our world in data](https://ourworldindata.org/covid-d
 **SQL Skills demonstrated:** Joins, CTEs, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
 # Cleaning Nashville Housing Data In Microsoft SQL Server Management Studio (SSMS)
+
+![](HousingImage.jpg)
+
 Data cleaning is foundational for any meaningful analysis. For this project, I cleaned up the robust Nashville Dataset and prepared it for further exploration and analysis.
 
 **SQL skills demonstrated:** Data Type Conversion, Adding and populating new columns, Handling Null Values, String Manipulation, Parsing and Splitting, Data transformation with CASE Statements, Removing Duplicates, Column Deletion
